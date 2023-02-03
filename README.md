@@ -63,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Hello Rails React <a name="about-project"></a>
 
-> Hello Rails React is a simply greeting app
+**Hello Rails React** is a simply greeting app
 
 ## 🛠 Built With <a name="built-with"></a>
 
